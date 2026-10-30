@@ -1,0 +1,14 @@
+{
+  "/auth": {
+    "target": "http://localhost:3000",
+    "secure": false
+  },
+  "/users": {
+    "target": "http://localhost:3000",
+    "secure": false
+  },
+  "/categoria": {
+    "target": "http://localhost:3000",
+    "secure": false
+  }
+}
